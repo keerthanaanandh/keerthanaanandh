@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthanaanandh
 - 👀 I’m interested in Java,python programming and machine learning
-- 🌱 I’m currently learning Btech IT
+- 🌱 I’m currently pursuing Btech IT
 - 💞️ My future aim is to become an data scientist
 - 📫 How to reach me ... Mail on @keerthanaanandh5@gmail.com
 
